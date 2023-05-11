@@ -1,2 +1,2 @@
 # clonetiktok
-docoAM.github.io/clonetiktok
+https://docoAM.github.io/clonetiktok
